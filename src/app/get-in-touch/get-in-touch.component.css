@@ -1,0 +1,12 @@
+input{
+  margin:8px;
+  padding: 8px 10px;
+}
+.contactus{
+  height: 1.85%;
+  width: 8.33%;
+  border-radius: 1px;
+  background-color: #E2434B;
+  padding: 11px 27px;
+  margin-left: -12px;
+}
