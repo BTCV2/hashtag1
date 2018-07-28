@@ -23,3 +23,13 @@
   position: relative;
   top: -245px;
 }
+.card-body {
+  text-align: center;
+  -ms-flex: 1 1 auto;
+  -webkit-box-flex: 1;
+  flex: 1 1 auto;
+  padding: 1.25rem;
+  position: relative;
+  color: white;
+  top: -300px;
+}

@@ -7,12 +7,14 @@ import {BootstrapModule} from './bootstrap/bootstrap.module';
 import { SliderComponent } from './slider/slider.component';
 import { CarouselModule } from 'ngx-bootstrap';
 import { CollectionsComponent } from './collections/collections.component';
+import { BestOfAzhagiComponent } from './best-of-azhagi/best-of-azhagi.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     SliderComponent,
-    CollectionsComponent
+    CollectionsComponent,
+    BestOfAzhagiComponent
   ],
   imports: [
     BrowserModule,
