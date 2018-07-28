@@ -28,6 +28,14 @@
   position: relative;
   top: -245px;
 }
+#collection .card:hover{
+  opacity: 0.5;
+  background-color: #62625F;
+
+}
+#collection .card-body{
+  width: 85%;
+}
 #collection .card-body{
   text-align: center;
   -ms-flex: 1 1 auto;
@@ -38,8 +46,9 @@
   color: white;
   top: -300px;
   opacity: 0;
+  display: none;
 }
-#collection .card-body:hover{
+#collection .card:hover + .card-body{
   text-align: center;
   -ms-flex: 1 1 auto;
   -webkit-box-flex: 1;
