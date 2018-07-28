@@ -1,0 +1,125 @@
+.azhagi-container {
+  /*height: 130px;*/
+  /*width: 1920px;*/
+  box-shadow: 1px 5px 10px 0 #000000;
+  padding: 9px 374px
+}
+.azhagi-header{
+  display: -webkit-flex;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.hashtag {
+  /* height: 47px;
+   width: 27px;*/
+  color: #C69558;
+  font-family: Montserrat;
+  font-size: 36px;
+  font-weight: bold;
+  letter-spacing: 0.1px;
+}
+.azhagi-title{
+  /*height: 98px;
+  width: 116px;*/
+  color: #000000;
+  font-family: "Abril Fatface";
+  font-size: 36px;
+  text-align: center;
+  text-shadow: 0 2px 4px 0 rgba(0,0,0,0.5);
+}
+.bitmap{
+  height: 16px;
+  width: 16px;
+  color: #d81b60;
+  /*
+  background: linear-gradient(180deg, #8A3AB9 0%, #9740A6 11.96%, #F76B1C 100%);
+  */
+}
+.drop-down{
+  height: 4px;
+  width: 9px;
+}
+.insta-store {
+  height: 19px;
+  width: 68px;
+  color: #62625F;
+  font-family: Roboto;
+  font-size: 14px;
+  letter-spacing: -0.11px;
+  line-height: 19px;
+}
+.currency {
+  height: 16px;
+  width: 61px;
+  color: #62625F;
+  font-family: Roboto;
+  font-size: 14px;
+  letter-spacing: 0.01px;
+}
+.inr {
+  height: 19px;
+  width: 24px;
+  color: #2F302E;
+  font-family: Roboto;
+  font-size: 14px;
+  letter-spacing: -0.03px;
+  line-height: 19px;
+}
+.contact-us {
+  height: 19px;
+  width: 88px;
+  color: #62625F;
+  font-family: Roboto;
+  font-size: 14px;
+  letter-spacing: -0.11px;
+  line-height: 19px;
+}
+.your-account {
+  height: 19px;
+  width: 87px;
+  color: #62625F;
+  font-family: Roboto;
+  font-size: 14px;
+  letter-spacing: -0.9px;
+  line-height: 19px;
+}
+.spacing{
+  margin-left: 15px;
+}
+.line-gray {
+  border-bottom: 2px solid lightgray;
+  margin: 10px 0px;
+  opacity: 0.5;
+}
+.search{
+  height: 24px;
+  width: 24px;
+  color: #d81b60;
+}
+.azhagi-menu{
+  display: -webkit-flex;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 15px 0px;
+}
+.sarees-fabrics-skirt {
+  padding: 0px 25px;
+  height: 19px;
+  width: 272px;
+  color: #2F302E;
+  font-family: Roboto;
+  font-size: 14px;
+  font-weight: bold;
+  letter-spacing: 0.38px;
+  line-height: 19px;
+}
+.items {
+  height: 16px;
+  width: 47px;
+  color: #62625F;
+  font-family: Roboto;
+  font-size: 14px;
+  letter-spacing: 0.01px;
+}
