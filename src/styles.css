@@ -3,6 +3,7 @@
 @import url('https://fonts.googleapis.com/css?family=Abril+Fatface');
 *{
   font-family:"Abril Fatface";
+  letter-spacing: 1px;
 }
 .carousel-control-next-icon{
   position:relative !important;
@@ -36,9 +37,21 @@
   position: relative;
   color: white;
   top: -300px;
-  display: none;
+  opacity: 0;
 }
-#collection card:hover ~ .card-body{
+#collection .card-body:hover{
+  text-align: center;
+  -ms-flex: 1 1 auto;
+  -webkit-box-flex: 1;
+  flex: 1 1 auto;
+  padding: 1.25rem;
+  position: relative;
+  color: white;
+  top: -300px;
+  opacity: 1;
+  display: block;
+}
+/*#collection card:hover + .card-body{
   display:block;
   text-align: center;
   -ms-flex: 1 1 auto;
@@ -48,6 +61,9 @@
   position: relative;
   color: white;
   top: -300px;
+}*/
+#collection card:hover{
+  display:none;
 }
 .bestof{
   position:relative;
