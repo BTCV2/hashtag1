@@ -1,5 +1,9 @@
 /* You can add global styles to this file, and also import other style files */
 @import '~bootstrap/dist/css/bootstrap.css';
+@import url('https://fonts.googleapis.com/css?family=Abril+Fatface');
+*{
+  font-family:"Abril Fatface";
+}
 .carousel-control-next-icon{
   position:relative !important;
   top:-19% !important;
@@ -23,7 +27,7 @@
   position: relative;
   top: -245px;
 }
-.card-body {
+#collection .card-body{
   text-align: center;
   -ms-flex: 1 1 auto;
   -webkit-box-flex: 1;
@@ -32,4 +36,24 @@
   position: relative;
   color: white;
   top: -300px;
+  display: none;
+}
+#collection card:hover ~ .card-body{
+  display:block;
+  text-align: center;
+  -ms-flex: 1 1 auto;
+  -webkit-box-flex: 1;
+  flex: 1 1 auto;
+  padding: 1.25rem;
+  position: relative;
+  color: white;
+  top: -300px;
+}
+.bestof{
+  position:relative;
+  top:-170px;
+}
+
+.bestof .card-title{
+  padding:0% 6%;
 }
