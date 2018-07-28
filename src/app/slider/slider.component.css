@@ -1,0 +1,15 @@
+.text-white
+{color: #fff !important;
+position: relative;
+top: -590px;
+}
+
+.carousel-Button
+{	height: 1.91%;
+  width: 11.56%;
+  border-radius: 27.5px;
+  background-color: #D2203E;
+  box-shadow: 0 11px 13px 6px rgba(0,0,0,0.2);
+  padding:20px;
+}
+

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="38px" height="60px" viewBox="0 0 38 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>59ED8526-FA07-4635-8927-73F8EAD86644</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <polygon id="path-1" points="-0.000118257946 0.000199615041 37.8565 0.000199615041 37.8565 60 -0.000118257946 60"></polygon>
+    </defs>
+    <g id="Home" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="#-Home-Page" transform="translate(-150.000000, -501.000000)">
+            <rect fill="#FFFFFF" x="0" y="0" width="1920" height="3244"></rect>
+            <g id="Group-5-Copy" opacity="0.600000024" transform="translate(169.000000, 531.000000) rotate(-180.000000) translate(-169.000000, -531.000000) translate(150.000000, 501.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Clip-4"></g>
+                <path d="M36.9615,28.081 L4.104,0.581 C3.049,-0.3015 1.4715,-0.164 0.5815,0.896 C-0.301,1.956 -0.166,3.5335 0.8965,4.4185 L31.4615,30.001 L0.8965,55.581 C-0.166,56.466 -0.301,58.046 0.5815,59.1035 C1.0765,59.696 1.7865,60.001 2.5015,60.001 C3.0665,60.001 3.6365,59.806 4.104,59.4185 L36.9615,31.9185 C37.5315,31.4435 37.8565,30.7385 37.8565,30.001 C37.8565,29.261 37.5315,28.556 36.9615,28.081" id="Fill-3" fill="#D2203E" mask="url(#mask-2)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,1 +1,25 @@
 /* You can add global styles to this file, and also import other style files */
+@import '~bootstrap/dist/css/bootstrap.css';
+.carousel-control-next-icon{
+  position:relative !important;
+  top:-19% !important;
+  background-image: url('../src/assets/img/next.png') !important;
+  height: 60px;
+  width: 38px;
+}
+
+.carousel-control-prev-icon{
+  position:relative !important;
+  top:-19% !important;
+  background-image: url('../src/assets/img/previous.png') !important;
+  height: 60px;
+  width: 38px;
+}
+.backroundblur{
+  background: linear-gradient(180deg, rgba(31,28,44,0.7) 0%, #000000 100%);
+}
+
+.collection{
+  position: relative;
+  top: -245px;
+}
